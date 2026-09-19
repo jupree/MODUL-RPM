@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPP Kurikulum Merdeka",
+  "description": "Aplikasi generator Rencana Pelaksanaan Pembelajaran (RPP) Kurikulum Merdeka bertenaga AI untuk berbagai mata pelajaran dengan ekspor PDF dan Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
